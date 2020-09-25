@@ -1,4 +1,4 @@
-# Generalised Iverter and Rotational Approaches for Quantum Walks
+# Generalised Inverter and Rotational Approaches for Quantum Walks
 Code for quantum walk implementation on IBM Q
 
 ## Generalised Inverters Approach
